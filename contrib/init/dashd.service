@@ -1,0 +1,22 @@
+[Unit]
+Description=Chavezcoin's distributed currency daemon
+After=network.target
+
+[Service]
+User=chavezcoincore
+Group=chavezcoincore
+
+Type=forking
+PIDFile=/var/lib/chavezcoind/chavezcoind.pid
+ExecStart=/usr/bin/chavezcoind -daemon -pid=/var/lib/chavezcoind/chavezcoind.pid \
+-conf=/etc/chavezcoincore/chavezcoin.conf -datadir=/var/lib/chavezcoind -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/chavezcoin_bg.qm</file>
+        <file alias="de">locale/chavezcoin_de.qm</file>
+        <file alias="en">locale/chavezcoin_en.qm</file>
+        <file alias="es">locale/chavezcoin_es.qm</file>
+        <file alias="fi">locale/chavezcoin_fi.qm</file>
+        <file alias="fr">locale/chavezcoin_fr.qm</file>
+        <file alias="it">locale/chavezcoin_it.qm</file>
+        <file alias="ja">locale/chavezcoin_ja.qm</file>
+        <file alias="pl">locale/chavezcoin_pl.qm</file>
+        <file alias="pt">locale/chavezcoin_pt.qm</file>
+        <file alias="ru">locale/chavezcoin_ru.qm</file>
+        <file alias="sk">locale/chavezcoin_sk.qm</file>
+        <file alias="sv">locale/chavezcoin_sv.qm</file>
+        <file alias="vi">locale/chavezcoin_vi.qm</file>
+        <file alias="zh_CN">locale/chavezcoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/chavezcoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+usr/local/bin/chavezcoin-qt usr/bin
+share/pixmaps/chavezcoin32.xpm usr/share/pixmaps
+share/pixmaps/chavezcoin16.xpm usr/share/pixmaps
+share/pixmaps/chavezcoin128.png usr/share/pixmaps
+debian/chavezcoin-qt.desktop usr/share/applications
+debian/chavezcoin-qt.protocol usr/share/kde4/services/

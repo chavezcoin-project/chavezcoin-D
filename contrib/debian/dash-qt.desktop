@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Chavezcoin
+Comment=Chavezcoin P2P Cryptocurrency
+Comment[fr]=Chavezcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Chavezcoin, eşten eşe kriptografik sanal para birimi
+Exec=chavezcoin-qt %u
+Terminal=false
+Type=Application
+Icon=chavezcoin128
+MimeType=x-scheme-handler/chavezcoin;
+Categories=Office;Finance;
