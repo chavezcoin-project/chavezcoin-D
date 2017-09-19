@@ -4006,7 +4006,7 @@ https://www.transifex.com/projects/p/chavezcoin/</translation>
         <translation>Запазени права (C) 2009-%i Bitcoin Core разработчици</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Chavezcoin Core Developers</source>
+        <source>Copyright (C) 2014-%i The Dash Core Developers</source>
         <translation>Запазени права (C) 2014-%i Chavezcoin Core разработчиците</translation>
     </message>
     <message>

@@ -4006,8 +4006,8 @@ https://www.transifex.com/projects/p/chavezcoin/</translation>
         <translation>Copyright (C) 2009-%i The Bitcoin Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Chavezcoin Core Developers</source>
-        <translation>Copyright (C) 2014-%i The Chavezcoin Core Developers</translation>
+        <source>Copyright (C) 2014-%i The Dash Core Developers</source>
+        <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
         <source>Enable the client to act as a masternode (0-1, default: %u)</source>

@@ -4009,8 +4009,8 @@ Dies kann passieren, wenn einige Chavezcoin aus ihrer Wallet bereits ausgegeben 
         <translation>Copyright (C) 2009-%i Die "Bitcoin Core"-Entwickler</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Chavezcoin Core Developers</source>
-        <translation>Copyright (C) 2014-%i Die "Chavezcoin Core"-Entwickler</translation>
+        <source>Copyright (C) 2014-%i The Dash Core Developers</source>
+        <translation>Copyright (C) 2014-%i Die "Dash Core"-Entwickler</translation>
     </message>
     <message>
         <source>Enable the client to act as a masternode (0-1, default: %u)</source>

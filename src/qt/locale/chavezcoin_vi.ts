@@ -4006,7 +4006,7 @@ https://www.transifex.com/projects/p/chavezcoin/</translation>
         <translation>Bản quyền (C) 2009-%i bởi Nhóm phát triển Bitcoin Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Chavezcoin Core Developers</source>
+        <source>Copyright (C) 2014-%i The Dash Core Developers</source>
         <translation>Bản quyền (C) 2014-%i bởi Nhóm phát triển Chavezcoin Core</translation>
     </message>
     <message>

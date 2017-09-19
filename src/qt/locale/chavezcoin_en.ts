@@ -5131,8 +5131,8 @@ https://www.transifex.com/projects/p/chavezcoin/</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Copyright (C) 2014-%i The Chavezcoin Core Developers</source>
-        <translation>Copyright (C) 2014-%i The Chavezcoin Core Developers</translation>
+        <source>Copyright (C) 2014-%i The Dash Core Developers</source>
+        <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
         <location line="+14"/>

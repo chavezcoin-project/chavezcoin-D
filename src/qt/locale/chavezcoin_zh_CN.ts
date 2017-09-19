@@ -3653,7 +3653,7 @@ https://www.transifex.com/projects/p/chavezcoin/</translation>
         <translation>版权(C) 2009-%i The Bitcoin Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Chavezcoin Core Developers</source>
+        <source>Copyright (C) 2014-%i The Dash Core Developers</source>
         <translation>版权 (C) 2014-%i The Chavezcoin Core Developers</translation>
     </message>
     <message>
