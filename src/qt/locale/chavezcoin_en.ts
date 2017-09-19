@@ -5066,8 +5066,8 @@ https://www.transifex.com/projects/p/chavezcoin/</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Show N confirmations for a successfully locked transaction (0-9999, default: %u)</source>
-        <translation>Show N confirmations for a successfully locked transaction (0-9999, default: %u)</translation>
+        <source>Show N confirmations for a successfully locked transaction (0-47047, default: %u)</source>
+        <translation>Show N confirmations for a successfully locked transaction (0-47047, default: %u)</translation>
     </message>
     <message>
         <location line="+17"/>
