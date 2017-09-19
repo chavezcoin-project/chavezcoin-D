@@ -115,7 +115,7 @@ static void CheckBlockIndex(const Consensus::Params& consensusParams);
 /** Constant stuff for coinbase transactions we create: */
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "DarkCoin Signed Message:\n";
+const string strMessageMagic = "ChavezCoin Signed Message:\n";
 
 // Internal stuff
 namespace {
@@ -1751,7 +1751,7 @@ CAmount GetBlockSubsidy(int nPrevBits, int nPrevHeight, const Consensus::Params&
         nSubsidyBase = 5 * COIN;
     }
 
-    if (nPrevHeight >= 200)
+    if (nPrevHeight >= 195)
     {
         nSubsidyBase = 0;
     }
