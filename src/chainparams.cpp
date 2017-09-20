@@ -167,17 +167,17 @@ public:
 
         nPoolMaxTransactions = 3;
         nFulfilledRequestExpireTime = 60*60; // fulfilled requests expire in 1 hour
-        strSporkPubKey = "04549ac134f694c0243f503e8c8a9a986f5de6610049c40b07816809b0d1d06a21b07be27b9bb555931773f62ba6cf35a25fd52f694d4e1106ccd237a7bb899fdd";
-        strMasternodePaymentsPubKey = "04549ac134f694c0243f503e8c8a9a986f5de6610049c40b07816809b0d1d06a21b07be27b9bb555931773f62ba6cf35a25fd52f694d4e1106ccd237a7bb899fdd";
+        strSporkPubKey = "04691a258bb4ed2daf7dc94152ad97430b1df927dda1774ef769eacdf2fe0d219d8ccf5d320e6cd0f27409a75804d0374c4bf31ba267a82bbdd0cc7bd85d8fc9cc";
+        strMasternodePaymentsPubKey = "04691a258bb4ed2daf7dc94152ad97430b1df927dda1774ef769eacdf2fe0d219d8ccf5d320e6cd0f27409a75804d0374c4bf31ba267a82bbdd0cc7bd85d8fc9cc";
 
         checkpointData = (CCheckpointData) {
             boost::assign::map_list_of
             ( 0, uint256S("0x00000a0458a55d43a2074f68aa206d76605e20f14964f84786b6f545b4a11b99")),
             // ( 523930, uint256S("0x0000000000000bccdb11c2b1cfb0ecab452abf267d89b7f46eaf2d54ce6e652c")),
-            1505792691, // * UNIX timestamp of last checkpoint block
+            0, // * UNIX timestamp of last checkpoint block
             0,    // * total number of transactions between genesis and last checkpoint
                         //   (the tx=... number in the SetBestChain debug.log lines)
-            10        // * estimated number of transactions per day after checkpoint
+            0        // * estimated number of transactions per day after checkpoint
         };
     }
 };
